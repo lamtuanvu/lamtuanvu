@@ -77,7 +77,7 @@ with my technical and professional expertise
 *Nov 2016 – Dec 2018*
 > Automation test engineer using **Python, Jira, HP QC**
 
-### PROJECTS
+<!--### PROJECTS
 
 #### Robot Control System
 
@@ -167,7 +167,7 @@ with my technical and professional expertise
 - **Report to**: Product Owner
 
   *An IOT control system where the mobile app can **Configure, Control, Monitor** iot device using Thingsboard platform*
-
+-->
 ### EDUCATION
 
 *September 2010 – May 2015*
