@@ -1,6 +1,6 @@
 # Lam Tuan Vu
 *Senior Software Engineer*
->I am an experienced Software Engineer with modern web technologies. Looking forward to contributing to your organization
+>I am an experienced Fullstack Developer with 6+ year of experience with web technologies, crypto, bitcoin, lightning network. Looking forward to contributing to your organization
 with my technical and professional expertise
 
 ### PERSONAL INFORMATION
@@ -13,12 +13,14 @@ with my technical and professional expertise
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Bitcoin](https://img.shields.io/static/v1?style=for-the-badge&message=Bitcoin&color=222222&logo=Bitcoin&logoColor=F7931A&label=)
+![DotNet](https://camo.githubusercontent.com/ff765790707ecba41b57071db549f75fbf0eeffa5ac6996ff077083863b8bea4/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d2e4e455426636f6c6f723d353132424434266c6f676f3d2e4e4554266c6f676f436f6c6f723d464646464646266c6162656c3d)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 <!-- 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 -->
 
@@ -27,6 +29,7 @@ with my technical and professional expertise
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -43,41 +46,45 @@ with my technical and professional expertise
 
 ### WORK EXPERIENCE
 
-#### TMA Solutions
+#### Neutronpay Inc - A Lighting Infrastructure Company
 
-*November 2016 – Present*
+*August 2022 – present*
 
-##### Web Developer / Team Lead
+##### Fullstack Developer / Team Lead
 
 *Full-time* <br />
-*Jul 2020 – Present*
+> Fullstack developer with **Lightning Network, Bitcoin, ReactJS, React Native, NodeJS, using Typescript, Javascript, HTML, CSS, Git, Docker**
+
+#### TMA Solutions
+
+*November 2016 – 2022*
+
+##### Fullstack Developer / Team Lead
+
+*Full-time* <br />
 > Fullstack developer with **ReactJS, NodeJS, Spring Boot using Typescript, Java, HTML, CSS, Git, Docker**
 
 ##### Mobile Application Developer / Team Lead
 
 *Full-time* <br />
-*Dec 2019 – Present*
 > Mobile app developer with **React Native, Android Native, Flutter** using **Typescript, Dart, Kotlin, Java**
 
 ##### Python/Typescript Developer
 
 *Full-time* <br />
-*Jul 2019 – Jan 2020*
 > Tools developer with **Python** (for package management tool development) and **Typescript** (for visual studio code extension development)
 
 ##### Senior Software Engineer (QA)
 
 *Full-time* <br />
-*Jan 2019 – Jul 2019*
 > Senior Automation test engineer using **Python, Jira, HP QC**
 
 ##### Software Engineer (QA)
 
 *Full-time* <br />
-*Nov 2016 – Dec 2018*
 > Automation test engineer using **Python, Jira, HP QC**
 
-<!--### PROJECTS
+<!--### NOTABLE PROJECTS
 
 #### Robot Control System
 
