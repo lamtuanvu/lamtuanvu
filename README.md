@@ -1,6 +1,6 @@
 # Lam Tuan Vu
 *Senior Software Engineer*
->I am an experienced Fullstack Developer with 7+ years of experience with web technologies, focusing on fin-tech, crypto, bitcoin, and lightning network. Looking forward to contributing to your organization
+>I am an experienced Fullstack Developer with 8+ years of experience with full-stack development, focusing on fin-tech, crypto, bitcoin, and lightning network. Looking forward to contributing to your organization
 with my technical and professional expertise
 
 ### PERSONAL INFORMATION
@@ -13,13 +13,10 @@ with my technical and professional expertise
 #### Technologies
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Bitcoin](https://img.shields.io/static/v1?style=for-the-badge&message=Bitcoin&color=222222&logo=Bitcoin&logoColor=F7931A&label=)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![DotNet](https://camo.githubusercontent.com/ff765790707ecba41b57071db549f75fbf0eeffa5ac6996ff077083863b8bea4/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d2e4e455426636f6c6f723d353132424434266c6f676f3d2e4e4554266c6f676f436f6c6f723d464646464646266c6162656c3d)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
@@ -59,7 +56,7 @@ with my technical and professional expertise
 ##### Fullstack Developer / Tech Lead
 
 *Full-time* <br />
-> Fullstack developer with **Lightning Network, Bitcoin, ReactJS, React Native, NodeJS, using Typescript, Javascript, HTML, CSS, Git, Docker**
+> Fullstack developer with **Lightning Network, Bitcoin, ReactJS, React Native, NodeJS, using Typescript, Javascript, Golang HTML, CSS, Git, Docker**
 > 
 > DevOps engineer with **GitHub Actions, Digital Ocean**
 
