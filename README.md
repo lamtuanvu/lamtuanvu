@@ -40,7 +40,7 @@ B.Sc. Physical Electronics — University of Science, Ho Chi Minh City National 
 
 ### Links
 
-- Portfolio: **[vulam.me](https://vulamtech.com)**
+- Portfolio: **[vulamtech.com](https://vulamtech.com)**
 - LinkedIn: [linkedin.com/in/lamtuanvu](https://www.linkedin.com/in/lamtuanvu/)
 - Email: lamtuanvuqs@gmail.com
 
